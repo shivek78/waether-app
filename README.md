@@ -1,44 +1,46 @@
-# 🌪️ Crazy Weather App
 
-<img width="896" height="894" alt="image" src="https://github.com/user-attachments/assets/388bab0a-cda4-4256-a353-9b53eed5f069" />
+<!-- Profile Views -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=shivek78&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Fancy GIF Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
+
+<!-- Project Title -->
+<h1 align="center">🌪️ Crazy Weather App</h1>
+
+<!-- Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=F7DF1E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Interactive+Weather+App;Built+Using+HTML,+CSS+and+JS;Animated+UI+%2B+Live+Weather+Updates" alt="Typing SVG" />
+</p>
 
 
-> A sleek, animated, and fully interactive weather app that lets users view real-time weather for any city around the world. Built with **HTML**, **CSS**, and **JavaScript**, powered by [WeatherAPI](https://www.weatherapi.com/). 
+<!-- App Screenshot -->
+<p align="center">
+  <img width="500" alt="Crazy Weather App UI" src="https://github.com/user-attachments/assets/388bab0a-cda4-4256-a353-9b53eed5f069" />
+</p>
 
----
+<!-- Fancy GIF Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</p>
 
-## 🌟 Features
 
-- 🌦️ **Live Weather Fetch**  
-  Get real-time temperature, humidity, wind speed, weather conditions, and icons for any city.
 
-- 🌡️ **Temperature Unit Toggle**  
-  Switch instantly between °C and °F.
+🌟 Features
 
-- 🔢 **Animated Number Display**  
-  Smooth animations when temperature updates.
-
-- 🎨 **Dynamic Background Colors**  
-  Background shifts between blue (cold) and red (hot) based on temperature.
-
-- 🕘 **Local Time Display**  
-  Shows the searched city’s local time.
-
-- 🕹️ **Search History**  
-  Stores and displays your last 5 city searches as clickable buttons.
-
-- 📱 **Responsive Design**  
-  Mobile-friendly and clean layout with touch-friendly components.
-
-- ♿ **Accessibility-Ready**  
-  ARIA live regions and semantic HTML for screen reader support.
-
-- 🎨 **Modern UI Effects**  
-  Hover animations, gradients, icon wiggles, and button effects.
-
-- ⚠️ **Error Handling**  
-  Friendly messages for invalid inputs or network issues.
-
+- 🌦️ **Live Weather Fetch** – Get temperature, humidity, wind speed, condition & icon.
+- 🌡️ **Unit Toggle** – Switch between Celsius (°C) and Fahrenheit (°F).
+- 🔢 **Animated Numbers** – Smooth temperature animation when updated.
+- 🎨 **Dynamic Backgrounds** – Color changes based on hot/cold weather.
+- 🕘 **Local Time Display** – Shows current time of searched city.
+- 📍 **Search History** – Stores and displays last 5 city searches.
+- 📱 **Responsive UI** – Mobile-friendly layout with smooth design.
+- ⚠️ **Error Handling** – Clear messages for invalid city names or network issues.
+- ♿ **Accessibility Friendly** – ARIA live regions and semantic markup.
 ---
 
 ## 📁 Folder Structure<br>
@@ -48,8 +50,11 @@
 └── script.js # Core logic and dynamic behavior<br>
 
 ---
+🛠️ Built With
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js" height="30" /> <img src="https://skillicons.dev/icons?i=api" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> </p>
 
-## 🚀 How To Run
+
+ 🚀 How To Run
 
 1. **Clone the repository**  
    ```bash
@@ -64,30 +69,32 @@ cd crazy-weather-app
 3. Open in your browser
 Open index.html in any modern web browser (Chrome, Firefox, Edge, Safari).
 
- Built With
-💻 HTML5
 
-🎨 CSS3 – Animations, gradients, and responsive design
+---
+📬 Contact Me
 
-⚙️ JavaScript (Vanilla) – API integration, logic, local storage
+<p align="center">
+  <a href="mailto:shivekyadav0786@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a><br>
 
-📡 WeatherAPI – Weather data
+  <a href="https://linkedin.com/in/shivek-yadav">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a><br>
 
-🎨 Icons by Flaticon
+  <a href="https://twitter.com/shivek_ydv">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a><br>
 
-🔮 Future Enhancements
-📊 Add 5-day or hourly forecast with graphs.
+  <a href="https://instagram.com/shivek_ydv">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</p>
 
-🌓 Dark mode toggle.
-
-📍 Use geolocation to auto-fetch weather.
-
-
-🙏 Credits
-Weather data by WeatherAPI
-
-Icons from WeatherAPI & Flaticon
-
-Developed with ❤️ by @shivek78
+---
+ <p align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> 
+ </p> 
+ <!-- Footer -->
+ <p align="center"> <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-000000?style=for-the-badge&logo=github&logoColor=white" /> </p>
 
 
