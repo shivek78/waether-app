@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Crazy Weather App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="weather-app">
+    <h1>🌤️ Crazy Weather App</h1>
+    <form id="weather-form">
+      <input type="text" id="city-input" placeholder="Enter city..." required autocomplete="off" />
+      <button type="submit">Search</button>
+    </form>
+
+    <div id="history" class="search-history"></div>
+
+    <div class="weather-card" id="weather-card" aria-live="polite">
+      <img src="https://cdn-icons-png.flaticon.com/512/1163/1163661.png" id="weather-icon" alt="weather icon" />
+      <div id="weather-info">
+        <h2 id="city-name">Waiting for Search</h2>
+        <p id="condition">Condition</p>
+        <p id="temperature">--°C</p>
+        <p id="humidity">Humidity: --%</p>
+        <p id="wind">Wind: -- km/h</p>
+        <p id="local-time">Local time: --</p>
+      </div>
+      <button id="toggle-unit" aria-label="Toggle temperature unit">Show °F</button>
+    </div>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
