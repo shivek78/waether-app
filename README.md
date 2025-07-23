@@ -60,7 +60,34 @@
 ```bash
 
 cd crazy-weather-app
+```
+3. Open in your browser
+Open index.html in any modern web browser (Chrome, Firefox, Edge, Safari).
+
+ Built With
+💻 HTML5
+
+🎨 CSS3 – Animations, gradients, and responsive design
+
+⚙️ JavaScript (Vanilla) – API integration, logic, local storage
+
+📡 WeatherAPI – Weather data
+
+🎨 Icons by Flaticon
+
+🔮 Future Enhancements
+📊 Add 5-day or hourly forecast with graphs.
+
+🌓 Dark mode toggle.
+
+📍 Use geolocation to auto-fetch weather.
 
 
+🙏 Credits
+Weather data by WeatherAPI
+
+Icons from WeatherAPI & Flaticon
+
+Developed with ❤️ by @shivek78
 
 
