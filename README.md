@@ -3,7 +3,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=shivek78&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
----
+
 <!-- Fancy GIF Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
